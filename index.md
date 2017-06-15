@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Salcon's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/salcon/salcon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 我的目录：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 编程语言
 
-### Markdown
+```
+总结我目前涉及到的编程语言，记录编程语言的基础，分析以及个人理解
+```
+
+2. 设计模式
+
+```
+总结
+```
+
+3. 大数据
+4. 技术框架
+5. 个人学习
+
+### Markdown语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,13 +39,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salcon/salcon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
